@@ -27,12 +27,6 @@ const freelancers = [
 
 
 
-// // add to list
-// const add = new Object()
-// add.name = newName;
-// add.occupation=newOccupation;
-// add.price=newPrice;
-// freelancers.push(add)
 
 
 
